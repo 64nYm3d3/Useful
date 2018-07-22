@@ -1,3 +1,7 @@
+Via https://github.com/kieranwalsh/PowerShell/blob/master/Get-WannaCryPatchState/Get-WannaCryPatchState.ps1
+
+While this was originally for checking wanna cry, I felt I could modify and run this to look for other exploits unpatched and available on a windows machine
+
 ~~~
 #Version 1.08.00 @KieranWalsh May 2017
 # Computer Talk LTD
