@@ -1,3 +1,3 @@
 # Useful
 
-bunch of repos I wanted to clone
+Buncha stuff I stole for personal use
