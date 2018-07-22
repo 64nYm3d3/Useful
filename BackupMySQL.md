@@ -1,3 +1,8 @@
+Via
+
+https://cyanghost.com/scripts/Backup-MSSQL-Databases.ps1
+
+~~~
 # This PowerShell script will perform a full backup of all defined MSSQL databases to a BAK file and will retain them for one month.
 # Use Task Scheduler to have this script run daily. The account you run this under will require the proper permission to perform backups in SQL server.
 # Last updated: 7/20/2018
@@ -44,6 +49,4 @@ Get-ChildItem -Path $backuppath -Recurse -Force | Where-Object { $_.PSIsContaine
 Write-Host "[5] Backup complete."
 
 Write-Host "Exiting..."
----
-Ref
-https://cyanghost.com/scripts/Backup-MSSQL-Databases.ps1
+~~~
